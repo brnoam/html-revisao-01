@@ -1,0 +1,13 @@
+{
+  "name": "eu_no_mundo",
+  "version": "1.0.0",
+  "description": "projeto npm",
+  "main": "index.html",
+  "scripts": {
+  },
+  "keywords": [
+    "Eu_no_mundo"
+  ],
+  "author": "Bruno Amorim",
+  "license": "ISC"
+}
